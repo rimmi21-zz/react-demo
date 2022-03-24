@@ -1,0 +1,5 @@
+code: entando-react-demo
+description: Template for react widgets
+components:
+  widgets:
+    - ui/widgets/widgets-dir/table-widget/table-descriptor.yaml
