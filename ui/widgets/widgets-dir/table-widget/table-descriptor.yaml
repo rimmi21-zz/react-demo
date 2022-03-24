@@ -1,0 +1,6 @@
+code: table-widget
+titles:
+  en: Sample Table Layout Template
+  it: Sample Table Layout Template
+group: free
+customUiPath: table.ftl
