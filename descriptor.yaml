@@ -3,3 +3,4 @@ description: Template for react widgets
 components:
   widgets:
     - ui/widgets/widgets-dir/table-widget/table-descriptor.yaml
+    - ui/widgets/widgets-dir/list-group/list-descriptor.yaml

@@ -1,0 +1,6 @@
+code: list-group-widget
+titles:
+  en: Sample List Group Template
+  it: Sample List Group Template
+group: free
+customUiPath: list.ftl
