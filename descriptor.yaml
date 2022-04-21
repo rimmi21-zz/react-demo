@@ -4,3 +4,4 @@ components:
   widgets:
     - ui/widgets/widgets-dir/table-widget/table-descriptor.yaml
     - ui/widgets/widgets-dir/list-group/list-descriptor.yaml
+    - ui/widgets/widgets-dir/social-cards/social-cards-descriptor.yaml

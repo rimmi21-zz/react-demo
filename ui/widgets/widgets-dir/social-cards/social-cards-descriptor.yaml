@@ -1,0 +1,6 @@
+code: social-cards-widget
+titles:
+  en: Sample Social Cards Template
+  it: Sample Social cards Template
+group: free
+customUiPath: cards.ftl
